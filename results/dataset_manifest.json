@@ -1,0 +1,1816 @@
+{
+  "n_tasks": 300,
+  "by_op": {
+    "+": 76,
+    "-": 75,
+    "*": 70,
+    "/": 79
+  },
+  "by_difficulty": {
+    "easy": 123,
+    "medium": 157,
+    "hard": 20
+  },
+  "records": [
+    {
+      "task_id": "task-0122",
+      "sha256": "31faf17002dc6220e0b9bf4ab5557b47b5358a466ab111ba5c33e5691d39b611",
+      "op": "+",
+      "difficulty": "medium"
+    },
+    {
+      "task_id": "task-0177",
+      "sha256": "d15c07ff819fde126f7240b684babf442bad964f6e52c6d9992c1ad90aa383e0",
+      "op": "+",
+      "difficulty": "medium"
+    },
+    {
+      "task_id": "task-0031",
+      "sha256": "df5874bb34a1a3476f2824f2a0b4dda06f4536a0be0c8b1baf42314aa4aa5d97",
+      "op": "+",
+      "difficulty": "medium"
+    },
+    {
+      "task_id": "task-0112",
+      "sha256": "2ed743ebcd289d65542a4a7d61e09f0e852d0976c80284af2803961bf286586e",
+      "op": "+",
+      "difficulty": "medium"
+    },
+    {
+      "task_id": "task-0176",
+      "sha256": "eae65f8389e6b8f130e253a4e710e5c26f6718039452f451000481416e220d72",
+      "op": "+",
+      "difficulty": "medium"
+    },
+    {
+      "task_id": "task-0135",
+      "sha256": "90f3e236c116f12d49b0715a64889f0c17af1b753fa42202f2c076604d1e86f9",
+      "op": "+",
+      "difficulty": "medium"
+    },
+    {
+      "task_id": "task-0184",
+      "sha256": "7d38edd0767d45733665c75f0d59712ea864a550151667f71a1de562ae16837e",
+      "op": "+",
+      "difficulty": "medium"
+    },
+    {
+      "task_id": "task-0061",
+      "sha256": "95471aa0cad5a3771121cb4fea3a8b5a0f9d32892f25c2a3411e973fa073e938",
+      "op": "+",
+      "difficulty": "easy"
+    },
+    {
+      "task_id": "task-0162",
+      "sha256": "9b7f0f96293eff4153b1e0fb44929e5e8dab9bce16683ccf4c268d4b7192249a",
+      "op": "+",
+      "difficulty": "medium"
+    },
+    {
+      "task_id": "task-0155",
+      "sha256": "c493870d7e72c971fbcfb46434f292fd2ae59877f367a47170ddb1438486e001",
+      "op": "+",
+      "difficulty": "medium"
+    },
+    {
+      "task_id": "task-0107",
+      "sha256": "4bf61d118aa8d980d360f7f3e7fcee674cc89dc72db3d35062302e3929cabf5b",
+      "op": "+",
+      "difficulty": "medium"
+    },
+    {
+      "task_id": "task-0220",
+      "sha256": "a109edeb7b7568dc061c49031d5d51ef13fa60849feb140a6922f71b130c9088",
+      "op": "+",
+      "difficulty": "medium"
+    },
+    {
+      "task_id": "task-0230",
+      "sha256": "59b0df67592fd9d17006d95b6c569c4faeaeb75746c165286df85774e245ace7",
+      "op": "+",
+      "difficulty": "medium"
+    },
+    {
+      "task_id": "task-0247",
+      "sha256": "c3b7c2a0691d936ea909c9844f41377386d3aa4a5cff7f724ef9c9db3654c237",
+      "op": "+",
+      "difficulty": "medium"
+    },
+    {
+      "task_id": "task-0208",
+      "sha256": "dac68e682fee70106da4ceb97aff8d29a0e24ea82c253b3b7d880a32eb592d37",
+      "op": "+",
+      "difficulty": "medium"
+    },
+    {
+      "task_id": "task-0024",
+      "sha256": "da1f435315e874df47d8c9f23b43094c11c8fd047b6c72bb4019c24106aac112",
+      "op": "+",
+      "difficulty": "medium"
+    },
+    {
+      "task_id": "task-0225",
+      "sha256": "7565b7ef33e545f6081cd5599c3f0f5035a0233839b2f3ce573bb30c0df6a6d5",
+      "op": "+",
+      "difficulty": "medium"
+    },
+    {
+      "task_id": "task-0089",
+      "sha256": "bc87cc003b3a49f76461e3cf2d60b6edc23b5c0be19134d5aff13d970b14c3c2",
+      "op": "+",
+      "difficulty": "medium"
+    },
+    {
+      "task_id": "task-0223",
+      "sha256": "5b6653a089ba8aac203b784587d5dff93e5760ff8084193a0c6450b4ca1b7e78",
+      "op": "+",
+      "difficulty": "easy"
+    },
+    {
+      "task_id": "task-0075",
+      "sha256": "4ab6bfc2d9365698d2e418416b91fded1c942ac932ab35379562e6f83a8d0d5b",
+      "op": "+",
+      "difficulty": "easy"
+    },
+    {
+      "task_id": "task-0245",
+      "sha256": "7b8509df7f1f11f2deb5957de8598761c8ff6576f665f84482953091717d2ffa",
+      "op": "+",
+      "difficulty": "medium"
+    },
+    {
+      "task_id": "task-0077",
+      "sha256": "66547d40bf1869dd6eddb6e458031c4dcf1b5771c84c7588a44a819ca4b752c7",
+      "op": "+",
+      "difficulty": "medium"
+    },
+    {
+      "task_id": "task-0078",
+      "sha256": "b5d43b1ad864a57f58f7a35a3187312cf9a3837fa936e7f35717db2f423e53bc",
+      "op": "+",
+      "difficulty": "medium"
+    },
+    {
+      "task_id": "task-0215",
+      "sha256": "d91d3872cdd0b2cb54b4c3fef01648451cb6ec0b7a91e8b0fe5934e0dfd15b01",
+      "op": "+",
+      "difficulty": "medium"
+    },
+    {
+      "task_id": "task-0197",
+      "sha256": "d0e278224759b9df4ef08e456cab9093de881a2741ac41eb599e5ce72171da24",
+      "op": "+",
+      "difficulty": "medium"
+    },
+    {
+      "task_id": "task-0280",
+      "sha256": "bc069b2c139f4f44603e1c608604dc919d21a708088d57fa2eec49f06ed0dab0",
+      "op": "+",
+      "difficulty": "medium"
+    },
+    {
+      "task_id": "task-0222",
+      "sha256": "c7a557ddf25dc2a1bd00032a3d15b078a8e3b9dde615d5dafa18eb001b876abc",
+      "op": "+",
+      "difficulty": "medium"
+    },
+    {
+      "task_id": "task-0246",
+      "sha256": "0f11484eb6c95aa45dc42aeafa3952fd9976bfe66fed54b71b3ca1d2eda282cf",
+      "op": "+",
+      "difficulty": "medium"
+    },
+    {
+      "task_id": "task-0169",
+      "sha256": "ca9f755f5d5ac1ac137a913b5662c71fadb4e0a48c7f4cafd7c4c4ad2f7405cc",
+      "op": "+",
+      "difficulty": "medium"
+    },
+    {
+      "task_id": "task-0207",
+      "sha256": "29cba5420b8d2d6c957108360e1b084d097341d866f329e553aca47791861a62",
+      "op": "+",
+      "difficulty": "easy"
+    },
+    {
+      "task_id": "task-0084",
+      "sha256": "019f2c2ffbbb3ac851dc2346e57ef94711bc585ddd0c31c4b4ba42ba4785345c",
+      "op": "+",
+      "difficulty": "medium"
+    },
+    {
+      "task_id": "task-0004",
+      "sha256": "b1446b4cf6544266d0829f12cb673fe551bd427f03d1e5d7de7e7fdada50c00f",
+      "op": "+",
+      "difficulty": "medium"
+    },
+    {
+      "task_id": "task-0067",
+      "sha256": "2946c0a8a955b7283faf46985499ee4e18e8aeb185799eac580b528bcf0b7bff",
+      "op": "+",
+      "difficulty": "medium"
+    },
+    {
+      "task_id": "task-0210",
+      "sha256": "a9d820828611afb7ed1536463045c4fd757ceb650664efd8b67accc15f63c4e7",
+      "op": "+",
+      "difficulty": "medium"
+    },
+    {
+      "task_id": "task-0083",
+      "sha256": "a865dd5ba5da7ee3f24097e53d7d717594da8fd748ef8f4a8cd803661f51c80d",
+      "op": "+",
+      "difficulty": "medium"
+    },
+    {
+      "task_id": "task-0228",
+      "sha256": "4fc5ea105ae3e161d12646a9e8d920f1e1bfa27ae5dd4fb390ee03e8bc7782cd",
+      "op": "+",
+      "difficulty": "medium"
+    },
+    {
+      "task_id": "task-0088",
+      "sha256": "38fec596da085164acd7f77dd26d98ca7d43a6d316123a76c19b19993583ffd8",
+      "op": "+",
+      "difficulty": "medium"
+    },
+    {
+      "task_id": "task-0012",
+      "sha256": "c216371005e703ad28ef84d6a206ed18b325b09c5bacaf164df26aea28e8f5b6",
+      "op": "+",
+      "difficulty": "medium"
+    },
+    {
+      "task_id": "task-0023",
+      "sha256": "04d8e561294f07f064b84f84ddebd3cbabf8611b5dadce21667cc4ded7462d1e",
+      "op": "+",
+      "difficulty": "medium"
+    },
+    {
+      "task_id": "task-0170",
+      "sha256": "f55e48ff25a2d19c136bc3286c41a3b991aa36b9e71be18888e11e3fee150241",
+      "op": "+",
+      "difficulty": "medium"
+    },
+    {
+      "task_id": "task-0254",
+      "sha256": "b8cec41aeec0c43450001b1de8bc70705dae1730ce7e3d326925adb4e6bc12c2",
+      "op": "+",
+      "difficulty": "medium"
+    },
+    {
+      "task_id": "task-0035",
+      "sha256": "1c944316bb230fdbfaf39595c125a5407c2be7c2f2a84d94edece48f53ebbf65",
+      "op": "+",
+      "difficulty": "medium"
+    },
+    {
+      "task_id": "task-0181",
+      "sha256": "e24697668dbd742d02e2e67191493621024c96bb43aa9c0954765eaf4bf5a9b9",
+      "op": "+",
+      "difficulty": "medium"
+    },
+    {
+      "task_id": "task-0080",
+      "sha256": "ab2167ecfbca4295c18f5dad0a3772f66456acd8cc60f1d95f89ee0c30804e63",
+      "op": "+",
+      "difficulty": "medium"
+    },
+    {
+      "task_id": "task-0236",
+      "sha256": "da2b904e05ee22d9234915b832cfaf31c1d02195cf0719a6b4b2009f38b8a608",
+      "op": "+",
+      "difficulty": "medium"
+    },
+    {
+      "task_id": "task-0248",
+      "sha256": "13525f73c41d92e6ec7c154db580c01278f4d6cc6b5ce379c82c5ca61a46933b",
+      "op": "+",
+      "difficulty": "medium"
+    },
+    {
+      "task_id": "task-0039",
+      "sha256": "3d2dde7ffd0761a720875e36fade916ad80aa865ed69c93ae41883d030ce8324",
+      "op": "+",
+      "difficulty": "medium"
+    },
+    {
+      "task_id": "task-0000",
+      "sha256": "22122da06fbe041c79cb1154f39d7c9b9180f120e1419ffeb4633f2ed271fd79",
+      "op": "+",
+      "difficulty": "medium"
+    },
+    {
+      "task_id": "task-0276",
+      "sha256": "34f1da4a204db3051639020f7a7920e4489696524908fe59fdf20c906235f17c",
+      "op": "+",
+      "difficulty": "medium"
+    },
+    {
+      "task_id": "task-0138",
+      "sha256": "09265eb78a23e842effff405fdae96861eecb2e7b6c8431d31e279eb469bb52c",
+      "op": "+",
+      "difficulty": "easy"
+    },
+    {
+      "task_id": "task-0278",
+      "sha256": "7aca23853815f2a229332a97aa7b315a7cb714c0d0075e398ff1418a54bd565e",
+      "op": "+",
+      "difficulty": "medium"
+    },
+    {
+      "task_id": "task-0234",
+      "sha256": "f140f5eb5ec3ef3b9b7c58fa08161f65eb52a27ae17b7d95c4640fd8f6fc8e13",
+      "op": "+",
+      "difficulty": "medium"
+    },
+    {
+      "task_id": "task-0090",
+      "sha256": "aa9e2218f86680ab0be88aa7670f0d8323e04268fd87f9f86f1d37770dca7eea",
+      "op": "+",
+      "difficulty": "easy"
+    },
+    {
+      "task_id": "task-0258",
+      "sha256": "a145acff2c2526dea0de286920a0f9d7eb93bbe887f013b11c1ff11db875ae27",
+      "op": "-",
+      "difficulty": "easy"
+    },
+    {
+      "task_id": "task-0030",
+      "sha256": "0f945e708ca12b5660ddca064422175f9a49c150dd96aeb0d9dbe10294018f1b",
+      "op": "-",
+      "difficulty": "medium"
+    },
+    {
+      "task_id": "task-0172",
+      "sha256": "f8e95bcb788aa271fe7d86f06d5b0f91abf4b2d511f03f2fa8ca85dc91c06e32",
+      "op": "-",
+      "difficulty": "easy"
+    },
+    {
+      "task_id": "task-0044",
+      "sha256": "c7a4fee6e3bd2f4a337090051e5ed041122dcd3480691a894f8890ea27c54e86",
+      "op": "-",
+      "difficulty": "easy"
+    },
+    {
+      "task_id": "task-0105",
+      "sha256": "29c3e1183633f6e5899242b27923cd411704582118099af283d71f24fa2a8a00",
+      "op": "-",
+      "difficulty": "medium"
+    },
+    {
+      "task_id": "task-0255",
+      "sha256": "181538b59f1aec329d12aa53027ccb7c5db091b4edcc72edab10e88f18fe49f7",
+      "op": "-",
+      "difficulty": "medium"
+    },
+    {
+      "task_id": "task-0229",
+      "sha256": "cc5ef3f6ba54358fabca72a787954ece3f5544a21d145abab91a4474611b0548",
+      "op": "-",
+      "difficulty": "easy"
+    },
+    {
+      "task_id": "task-0149",
+      "sha256": "34f68f4004082da431a418373450a8b11345f92a3e1c0e728865f014d8e2ba87",
+      "op": "-",
+      "difficulty": "medium"
+    },
+    {
+      "task_id": "task-0150",
+      "sha256": "dce42cd18a6bd4698bf1a5218bda08a7de7aa4b0f3dda306af700fc471f95697",
+      "op": "-",
+      "difficulty": "easy"
+    },
+    {
+      "task_id": "task-0146",
+      "sha256": "ea7bd35966df01a8245c80fa29768451df489c60ab5cde8864def9f35ede494b",
+      "op": "-",
+      "difficulty": "medium"
+    },
+    {
+      "task_id": "task-0260",
+      "sha256": "fc3346a9fb60528f316b29d2d69d124065282698e4737c074d985833e28e8044",
+      "op": "-",
+      "difficulty": "easy"
+    },
+    {
+      "task_id": "task-0041",
+      "sha256": "b28777fb3bf104f72451dbc6600ae10a87bd644a658fb0f8d3036868c01ff7b5",
+      "op": "-",
+      "difficulty": "easy"
+    },
+    {
+      "task_id": "task-0001",
+      "sha256": "acd6d66c4bd454b47cc46d76b86116d860a185f132d9611a00947eda40d6b568",
+      "op": "-",
+      "difficulty": "easy"
+    },
+    {
+      "task_id": "task-0086",
+      "sha256": "b848086549083f38fdd635b4350e9b5d057665f4995d6ff70a1e1b1d58b60957",
+      "op": "-",
+      "difficulty": "medium"
+    },
+    {
+      "task_id": "task-0179",
+      "sha256": "2cdd8f0a46f35cd3de5b31cbaab8d25b052e65d8c604c02c771be4793db764c0",
+      "op": "-",
+      "difficulty": "medium"
+    },
+    {
+      "task_id": "task-0130",
+      "sha256": "a5310ef1b61b0691cae012ab20866aa462a24edd80e4c26546d98598daec723a",
+      "op": "-",
+      "difficulty": "medium"
+    },
+    {
+      "task_id": "task-0131",
+      "sha256": "e83aca2ec934846c4fe4e70bd0b34c76c79a9e33aefc2f7266a45a01c4e8ccf7",
+      "op": "-",
+      "difficulty": "medium"
+    },
+    {
+      "task_id": "task-0063",
+      "sha256": "5f8e832413520429eeb314da98adeba8df335bfd7d2a49af3a390a4e261ebd20",
+      "op": "-",
+      "difficulty": "medium"
+    },
+    {
+      "task_id": "task-0046",
+      "sha256": "27c7af09b112036aac8509d15531caa40538dcf54475476dd9db345991121716",
+      "op": "-",
+      "difficulty": "medium"
+    },
+    {
+      "task_id": "task-0120",
+      "sha256": "cac95b8f5df36303e55166555727c21e16f129c654165d841b1bcbfa3d36e4b2",
+      "op": "-",
+      "difficulty": "medium"
+    },
+    {
+      "task_id": "task-0068",
+      "sha256": "c0af36e35df2b181ab04633055b8fbe005738dd374a5ad3bdfa975d15de0991b",
+      "op": "-",
+      "difficulty": "medium"
+    },
+    {
+      "task_id": "task-0204",
+      "sha256": "7f29c5e99c28aaf8b18b04b24c877cc74af8d81f53332177e6e8b3fb4d83b00a",
+      "op": "-",
+      "difficulty": "medium"
+    },
+    {
+      "task_id": "task-0294",
+      "sha256": "245447083107a881c98b406b4d6de8b9ec7537db405cb31be6cb7726c927d840",
+      "op": "-",
+      "difficulty": "easy"
+    },
+    {
+      "task_id": "task-0022",
+      "sha256": "0233e7e35dc2ef5a3e00784ad3ca6b991a158c0c86c04f566f92112057fb8fea",
+      "op": "-",
+      "difficulty": "easy"
+    },
+    {
+      "task_id": "task-0286",
+      "sha256": "9446ef57eee8df8f65d0ba551fbfc969e65dd8998e6dca81cae41b2d51b0899a",
+      "op": "-",
+      "difficulty": "medium"
+    },
+    {
+      "task_id": "task-0227",
+      "sha256": "57d5eeca6d21ecbd4df3901c3aecd685deb880de5a26584e58b98dc5168aa838",
+      "op": "-",
+      "difficulty": "easy"
+    },
+    {
+      "task_id": "task-0016",
+      "sha256": "8240f45450789e947699bb7bdbeeb67461a1e8b9b5e75ac604d27ae136ca8e6f",
+      "op": "-",
+      "difficulty": "medium"
+    },
+    {
+      "task_id": "task-0212",
+      "sha256": "4dc76f3180dfd2e49bdaf6075594f142f183043fe04a422ae27953cdbe824c97",
+      "op": "-",
+      "difficulty": "easy"
+    },
+    {
+      "task_id": "task-0014",
+      "sha256": "4c71d423ca618128e5bc40ec2216a29ff21f295c3504e5057fa5423bfb8d1d05",
+      "op": "-",
+      "difficulty": "easy"
+    },
+    {
+      "task_id": "task-0102",
+      "sha256": "dc04da41162688cde0f184f2c47761a6fb169052cfbc61c460b52cfbc935dca2",
+      "op": "-",
+      "difficulty": "easy"
+    },
+    {
+      "task_id": "task-0253",
+      "sha256": "23e6e5ccf84598ccb4d78698ee031c1868079bc90e15a3c63288da16f8375327",
+      "op": "-",
+      "difficulty": "medium"
+    },
+    {
+      "task_id": "task-0268",
+      "sha256": "b6c8737295918c7e0f8d3e7bc65fd84dc3cfc57d3bae049a7fcf94067e774150",
+      "op": "-",
+      "difficulty": "easy"
+    },
+    {
+      "task_id": "task-0157",
+      "sha256": "bbe4269cbd02391d8031ae35dae16bcf7ca0fc4a0d7269c5571774b2ea997217",
+      "op": "-",
+      "difficulty": "medium"
+    },
+    {
+      "task_id": "task-0256",
+      "sha256": "8ebcadb7f8d23a792a0c7ea44f48b78eee1e83ebf4eac5961e5237065f6b1cea",
+      "op": "-",
+      "difficulty": "medium"
+    },
+    {
+      "task_id": "task-0092",
+      "sha256": "b7ed5266271a39d454bb5acf5b62bef43d1146bfbee60fd669246860a9519f44",
+      "op": "-",
+      "difficulty": "medium"
+    },
+    {
+      "task_id": "task-0186",
+      "sha256": "a6ff9ae97f29a1afbd70d9e987cc7722171d4ccb4b3c8458c67daeb0bc074448",
+      "op": "-",
+      "difficulty": "easy"
+    },
+    {
+      "task_id": "task-0106",
+      "sha256": "eaa36402f542565195225f9d5cc02ea21d0395d4e9c5ac13f6f65ad29390b81e",
+      "op": "-",
+      "difficulty": "easy"
+    },
+    {
+      "task_id": "task-0145",
+      "sha256": "0e7763eec5f282d9307d68b6f0dfc12317068740138b2a90c34ac6fae966a0ad",
+      "op": "-",
+      "difficulty": "medium"
+    },
+    {
+      "task_id": "task-0164",
+      "sha256": "b8a90866369f34538e9266ccf6824c4a5b0449cec2f617aed62f1c2106653499",
+      "op": "-",
+      "difficulty": "medium"
+    },
+    {
+      "task_id": "task-0265",
+      "sha256": "4ebad1ee185524304c30701baf46eacb249ef613b058938315867be7047bc8cd",
+      "op": "-",
+      "difficulty": "medium"
+    },
+    {
+      "task_id": "task-0137",
+      "sha256": "4d34f6b51452faffda1886c933b86834cea1d4c1e6fd8885df9f970915c03eb4",
+      "op": "-",
+      "difficulty": "easy"
+    },
+    {
+      "task_id": "task-0053",
+      "sha256": "473606d64e64283e5dd800a621128d7bdb64e5e538e9092265a838720804e617",
+      "op": "-",
+      "difficulty": "medium"
+    },
+    {
+      "task_id": "task-0037",
+      "sha256": "978af6aadc3157f5e8c251eb4395207dac7cd0719e261116532481af2386076a",
+      "op": "-",
+      "difficulty": "easy"
+    },
+    {
+      "task_id": "task-0056",
+      "sha256": "731f20184e965ae83ec65fe32337d01efe8f5e347645df50dc0a2ff7157bb288",
+      "op": "-",
+      "difficulty": "medium"
+    },
+    {
+      "task_id": "task-0295",
+      "sha256": "71245e0d7c4b7c1c826a594e974799517c310e1c9b7127991383d9f5563b8917",
+      "op": "-",
+      "difficulty": "easy"
+    },
+    {
+      "task_id": "task-0111",
+      "sha256": "15110440cb8d2cc55e6fac5c83af389735f5b5212e9aaa231fd6603b91f2b027",
+      "op": "-",
+      "difficulty": "medium"
+    },
+    {
+      "task_id": "task-0196",
+      "sha256": "1af15a51e788106c0261bf1b187bcc0f9e5e57e58bce3db0e95497701c584e34",
+      "op": "-",
+      "difficulty": "medium"
+    },
+    {
+      "task_id": "task-0237",
+      "sha256": "6e172f8f5419864f338aac9e178eacdf7bbc5a2c1fc701ca269886d8e9c4917e",
+      "op": "-",
+      "difficulty": "medium"
+    },
+    {
+      "task_id": "task-0283",
+      "sha256": "7788c85ce52a3d66a283c60125d604d2466cc3039606f088b186c643aa0dcce5",
+      "op": "-",
+      "difficulty": "easy"
+    },
+    {
+      "task_id": "task-0259",
+      "sha256": "ac492288631c1898010df98b13653d000ccef06b45c1355e48a23a1bff650f72",
+      "op": "-",
+      "difficulty": "medium"
+    },
+    {
+      "task_id": "task-0221",
+      "sha256": "7c21ee2701990059d37978889c92e52ed6f846e979e6525d9c5068b807d37dc9",
+      "op": "-",
+      "difficulty": "easy"
+    },
+    {
+      "task_id": "task-0242",
+      "sha256": "a90a258b0e81462103289b274061cfcf29b4e3341359f059e5ba0bfc6489d376",
+      "op": "-",
+      "difficulty": "medium"
+    },
+    {
+      "task_id": "task-0167",
+      "sha256": "a7c03d67665958b10c1f8131f2ab088415fbed7bf6a438e367f77b0b416c17f1",
+      "op": "/",
+      "difficulty": "easy"
+    },
+    {
+      "task_id": "task-0033",
+      "sha256": "4a482c56ded99867f20b05aed02695d080fff8227b5c8c66774f815596c925bf",
+      "op": "/",
+      "difficulty": "easy"
+    },
+    {
+      "task_id": "task-0058",
+      "sha256": "748a0c13415c9963475819e4d53836f29128c54560271687ef981d7fd1433ba6",
+      "op": "/",
+      "difficulty": "easy"
+    },
+    {
+      "task_id": "task-0152",
+      "sha256": "cb723451ce7f15557e867aa168dc8cee2adbe29aab995fc8b5e729223f093561",
+      "op": "/",
+      "difficulty": "easy"
+    },
+    {
+      "task_id": "task-0233",
+      "sha256": "3e8283d40eca8960c27b3cbe165c138aca7eb0f92b27d9eb7ec109b9cd2101a4",
+      "op": "/",
+      "difficulty": "easy"
+    },
+    {
+      "task_id": "task-0273",
+      "sha256": "d054e1a643925721501157ccc47b73dc09d2fe2f3726f2caeaf9ec2fba57fde1",
+      "op": "/",
+      "difficulty": "easy"
+    },
+    {
+      "task_id": "task-0266",
+      "sha256": "fbb632971d2a707ffbde0309eece314d50ac529a33732e41c482ca78070d8db8",
+      "op": "/",
+      "difficulty": "easy"
+    },
+    {
+      "task_id": "task-0198",
+      "sha256": "83c8d0940cad20be5ecb9b9d61595eac83e3098d8bbd66728f226012577a6a15",
+      "op": "/",
+      "difficulty": "easy"
+    },
+    {
+      "task_id": "task-0191",
+      "sha256": "90cb127c91f2de61f824cc7fe16169e851aeebba11ae0ad0527fb08bb83cdbeb",
+      "op": "/",
+      "difficulty": "easy"
+    },
+    {
+      "task_id": "task-0252",
+      "sha256": "5c3402818ad445ed3b0c634d9704a76dc01cd1f6ec75ea63ec57633a89e004f6",
+      "op": "/",
+      "difficulty": "easy"
+    },
+    {
+      "task_id": "task-0006",
+      "sha256": "d71975a0721722d3d4b9cbab944c46e2964abc514271e4c4503a2ba2ec78b3a1",
+      "op": "/",
+      "difficulty": "easy"
+    },
+    {
+      "task_id": "task-0116",
+      "sha256": "58b7a21af76e3eddaea53f3ba0426f21a9debacd88dead548d93d0eb162026cf",
+      "op": "/",
+      "difficulty": "easy"
+    },
+    {
+      "task_id": "task-0128",
+      "sha256": "386d674819b89ed7490c19810fd44a2626aecf2be413e22e869bd48aed4e4eff",
+      "op": "/",
+      "difficulty": "easy"
+    },
+    {
+      "task_id": "task-0281",
+      "sha256": "0fdc83d369d22571ec7ff67707cbac35c84d0f58ca0384b554f5f129f7bd1abf",
+      "op": "/",
+      "difficulty": "easy"
+    },
+    {
+      "task_id": "task-0065",
+      "sha256": "1389f2f038be796496b654de19f5ebd36a9ae2db266c094cde9954aefd8d8400",
+      "op": "/",
+      "difficulty": "easy"
+    },
+    {
+      "task_id": "task-0187",
+      "sha256": "cab7156d858384759ed1d703b90121b5dad0d3744104d401899564b040361c55",
+      "op": "/",
+      "difficulty": "easy"
+    },
+    {
+      "task_id": "task-0100",
+      "sha256": "9c7190107639630c6d6caa5218bf2e65159e46aba953ff50d4177887b714676d",
+      "op": "/",
+      "difficulty": "easy"
+    },
+    {
+      "task_id": "task-0264",
+      "sha256": "3d36d3222991322ff8fbe8bf8b789ae8b7ff91c6a34d4b58c5e36cc35a9b5ce6",
+      "op": "/",
+      "difficulty": "easy"
+    },
+    {
+      "task_id": "task-0109",
+      "sha256": "e8cb06d98e5b042bb30a271a4ea73b0de5070849d2304eb567f8a6c17a5d70fb",
+      "op": "/",
+      "difficulty": "easy"
+    },
+    {
+      "task_id": "task-0076",
+      "sha256": "b8c4583bef0f417c8c9b70046a5b04f903208da1a125a5463e2ae6182e7bd856",
+      "op": "/",
+      "difficulty": "easy"
+    },
+    {
+      "task_id": "task-0087",
+      "sha256": "2e249b8cf0831887d9dc30996682f108d9b41456854651486ec5a690174e530f",
+      "op": "/",
+      "difficulty": "easy"
+    },
+    {
+      "task_id": "task-0261",
+      "sha256": "2e2d94cbbdbb2c90c5667335c159943daae31e67aaeff459701667b3e5935a9a",
+      "op": "/",
+      "difficulty": "easy"
+    },
+    {
+      "task_id": "task-0159",
+      "sha256": "c8eaf30647277e6f26d54233c6d54bceaf6dabe3ce98dfd194d97ca30c289faa",
+      "op": "/",
+      "difficulty": "easy"
+    },
+    {
+      "task_id": "task-0244",
+      "sha256": "a36ace9ab4ae89b6d5a01fd284297858a0990821a5b0d9405c8a9ec0254f5999",
+      "op": "/",
+      "difficulty": "easy"
+    },
+    {
+      "task_id": "task-0141",
+      "sha256": "c396db8af1ef5f6d1ede21022e73fdf333d1d2c99764d17c4ce6e717c2c834ed",
+      "op": "/",
+      "difficulty": "easy"
+    },
+    {
+      "task_id": "task-0272",
+      "sha256": "486a84d7181a831d86a1671d5b452640353cb97b3159e2aa203e3c466a9e1ac5",
+      "op": "/",
+      "difficulty": "easy"
+    },
+    {
+      "task_id": "task-0213",
+      "sha256": "e87a87549c2ba1f24b9b11126f06a37b100e8db2bb9088d824f7c99f2af0fe43",
+      "op": "/",
+      "difficulty": "easy"
+    },
+    {
+      "task_id": "task-0166",
+      "sha256": "67cf689c9e2b6024ddfccb104d9d59e4d733b529196eaaba1ecd7e0d52957049",
+      "op": "/",
+      "difficulty": "easy"
+    },
+    {
+      "task_id": "task-0158",
+      "sha256": "954d16f505c04c483f049e29fcee6038901098ed1cbeb29a7d76124e11a576dc",
+      "op": "/",
+      "difficulty": "easy"
+    },
+    {
+      "task_id": "task-0125",
+      "sha256": "18730ec866ccaad7d0e8283b9b3dbfc7b07cb513b53e97e65555efbd45192573",
+      "op": "/",
+      "difficulty": "easy"
+    },
+    {
+      "task_id": "task-0071",
+      "sha256": "ca5ea2f3bb839aaad037c57438773807e2011cc1a53b63a67eba21f11ea37128",
+      "op": "/",
+      "difficulty": "easy"
+    },
+    {
+      "task_id": "task-0239",
+      "sha256": "cd300305c173839aa7968169868a3a6fe68c91c7196a164b2a4ecb4cbe7a7c4c",
+      "op": "/",
+      "difficulty": "easy"
+    },
+    {
+      "task_id": "task-0270",
+      "sha256": "fed068dcb1cc62c842ae7fd91febc5618329ba9af08ce48fbfd976628d441fa1",
+      "op": "/",
+      "difficulty": "easy"
+    },
+    {
+      "task_id": "task-0240",
+      "sha256": "447b946180011b46c6cd854827b5b0dfd147a30ebeed49d1f3be2f85dce31f86",
+      "op": "/",
+      "difficulty": "easy"
+    },
+    {
+      "task_id": "task-0066",
+      "sha256": "c8c1d2f70d89d6c29ab0f5fc9df6ba5c63a1a361124c11f3c3a6b5a6cc72cd72",
+      "op": "/",
+      "difficulty": "easy"
+    },
+    {
+      "task_id": "task-0190",
+      "sha256": "baacbc1281efa8545a0af3be82f700f44ad0e8bfa9c15b9a4bc8615d73a9c10b",
+      "op": "/",
+      "difficulty": "easy"
+    },
+    {
+      "task_id": "task-0274",
+      "sha256": "23cfd8e2ed4c62f43ddfbc294f4c5fd5a6c020cfe9c1e0de769a0d8bb9ee299a",
+      "op": "/",
+      "difficulty": "easy"
+    },
+    {
+      "task_id": "task-0123",
+      "sha256": "b9b3f69a7e9fedcb487eb38ff71031984467f9c0a646440ce4f651b3d00e6424",
+      "op": "/",
+      "difficulty": "easy"
+    },
+    {
+      "task_id": "task-0296",
+      "sha256": "e995a7eae8b790f516876e10ce9fbbcc2d559166fa98da9f05c556eac84ba169",
+      "op": "/",
+      "difficulty": "easy"
+    },
+    {
+      "task_id": "task-0073",
+      "sha256": "40128512b09abca49818afe90d40a2d31b2c5acd463ec278fc28b5834bfc77b1",
+      "op": "/",
+      "difficulty": "easy"
+    },
+    {
+      "task_id": "task-0064",
+      "sha256": "05b227aa19df4a418d2cfdd1941af395504bd88daebb355426bc14fe5b59cb8a",
+      "op": "/",
+      "difficulty": "easy"
+    },
+    {
+      "task_id": "task-0144",
+      "sha256": "1058ffe7a6e02b5b66ac29061a68c54030f19f6bc42fc18e003e0734bdd640d8",
+      "op": "/",
+      "difficulty": "easy"
+    },
+    {
+      "task_id": "task-0129",
+      "sha256": "64639a0c57a856743912e5a94e6ec95d36e010aed98f42c5af9d55c907d7029b",
+      "op": "/",
+      "difficulty": "easy"
+    },
+    {
+      "task_id": "task-0161",
+      "sha256": "9d34fce6c32879c513432077939d1d431f986f9645dab35ccaaeb71b15deac5c",
+      "op": "/",
+      "difficulty": "easy"
+    },
+    {
+      "task_id": "task-0168",
+      "sha256": "cd6fefbf3e2e30d37767a58c7cfa40785b9e3810c93fde18b18faf164567b277",
+      "op": "/",
+      "difficulty": "easy"
+    },
+    {
+      "task_id": "task-0048",
+      "sha256": "be6a66dd46c5c7e0c34850b453012c4e34a002cb38968018374da210c455e73a",
+      "op": "/",
+      "difficulty": "easy"
+    },
+    {
+      "task_id": "task-0143",
+      "sha256": "b0cdd4ca422430b1d5961a1c3ce2abc68551f02eb0154b98f1396d733957b7aa",
+      "op": "/",
+      "difficulty": "easy"
+    },
+    {
+      "task_id": "task-0026",
+      "sha256": "11859b0030cfe31ecce931144866b5daa2fcd87fb581390cb88705798f0937dd",
+      "op": "/",
+      "difficulty": "easy"
+    },
+    {
+      "task_id": "task-0139",
+      "sha256": "27cbe57923a967230f1a2bf408cf352b87362a5bc70b0919db2dc4555ab9ced7",
+      "op": "/",
+      "difficulty": "easy"
+    },
+    {
+      "task_id": "task-0178",
+      "sha256": "640ab4e2894a3655f84f100cef12376f30896d8ed3229baefc4a158fbe32e6cf",
+      "op": "/",
+      "difficulty": "easy"
+    },
+    {
+      "task_id": "task-0224",
+      "sha256": "0655785aa49183369713f4ae6689b6192fa39935caf1f00906b500b82d60058a",
+      "op": "/",
+      "difficulty": "easy"
+    },
+    {
+      "task_id": "task-0029",
+      "sha256": "d36844e0f3ac001fe653fac86a97adc76dcf0400ade7a237626711c80edb3986",
+      "op": "/",
+      "difficulty": "easy"
+    },
+    {
+      "task_id": "task-0151",
+      "sha256": "1ae754cc1d2fedb945e2b463eb0d4c5f0651a390978ca98b318f6780f2696be6",
+      "op": "/",
+      "difficulty": "easy"
+    },
+    {
+      "task_id": "task-0217",
+      "sha256": "c9617dfff2de6fadc64642da321a856387f3c0d38c96bd7bcfe89bffdf72190b",
+      "op": "/",
+      "difficulty": "easy"
+    },
+    {
+      "task_id": "task-0021",
+      "sha256": "0cd5279e38f3facaf8d6e69f6b0db9b5488b625f4b8e5a420c023b563e52a32e",
+      "op": "/",
+      "difficulty": "easy"
+    },
+    {
+      "task_id": "task-0203",
+      "sha256": "249d334732ca82d6f27372c224750777d6c5d80a256096f4f35e25b088092647",
+      "op": "*",
+      "difficulty": "medium"
+    },
+    {
+      "task_id": "task-0028",
+      "sha256": "c1fe308d96da7aae2550600ebf59991c979350b908e25d05aba772117dc3e023",
+      "op": "*",
+      "difficulty": "hard"
+    },
+    {
+      "task_id": "task-0201",
+      "sha256": "7703095f3ba4ff06256c832f34b4998c19a2ae505f91b36c2a08144fb5e2ec24",
+      "op": "*",
+      "difficulty": "medium"
+    },
+    {
+      "task_id": "task-0074",
+      "sha256": "78d60312bfb92e6f7a2c82abd0d87432870c24ec202ee8a649fbbab11ef3d7ca",
+      "op": "*",
+      "difficulty": "medium"
+    },
+    {
+      "task_id": "task-0202",
+      "sha256": "33b80891731bd4ee295559b7c24a16a8b27fc483a46e619db8724757029e3a44",
+      "op": "*",
+      "difficulty": "medium"
+    },
+    {
+      "task_id": "task-0182",
+      "sha256": "b6715b420925d10726f0600bf3d0201637fa2061878b2185c320a8b73e1ac0f5",
+      "op": "*",
+      "difficulty": "hard"
+    },
+    {
+      "task_id": "task-0052",
+      "sha256": "6d52799e7fe9dde2da76662c264d6624106e870b1d7868abb97f00648ed7c6bd",
+      "op": "*",
+      "difficulty": "hard"
+    },
+    {
+      "task_id": "task-0034",
+      "sha256": "871de57db9c4f48bf53f188f2331cddb84ca6bcf6ea3a0ae296fc3a45169c2a2",
+      "op": "*",
+      "difficulty": "medium"
+    },
+    {
+      "task_id": "task-0132",
+      "sha256": "cbd8db60ebeb04a3c7b736a49694d9265a26b35f1fa406cf55c4c4f5ab2f2a41",
+      "op": "*",
+      "difficulty": "hard"
+    },
+    {
+      "task_id": "task-0175",
+      "sha256": "07d49de18c2c64dd68cd4c66d9c11f938c76a0f35ffef09057cc79e5351d6d76",
+      "op": "*",
+      "difficulty": "medium"
+    },
+    {
+      "task_id": "task-0093",
+      "sha256": "b089ce81199300c2b333d5acbbd3d86e165dd06574c9882735bc4f136ab68417",
+      "op": "*",
+      "difficulty": "medium"
+    },
+    {
+      "task_id": "task-0133",
+      "sha256": "fcf5bc3bfbc108aea576364e41e4cc4e5ec03e51a1da16521dafabdb313c0b91",
+      "op": "*",
+      "difficulty": "medium"
+    },
+    {
+      "task_id": "task-0043",
+      "sha256": "dc1c9f23e592379fe12ac5b5d265136be472790886644a2bb2623ec171e1b358",
+      "op": "*",
+      "difficulty": "easy"
+    },
+    {
+      "task_id": "task-0180",
+      "sha256": "8308a0a4d93b067851384eac9b88f7b5b8287fec7f53c173e8c55e3e73902d19",
+      "op": "*",
+      "difficulty": "medium"
+    },
+    {
+      "task_id": "task-0062",
+      "sha256": "1b6bf1a3307e4ae46fd1be8d719a11397f79d7084d56918842f3d89cd7bd2ab8",
+      "op": "*",
+      "difficulty": "medium"
+    },
+    {
+      "task_id": "task-0293",
+      "sha256": "f9352370469620c2cac4b6e67cca475cb62abbf63244137739b7c5addb9d9d54",
+      "op": "*",
+      "difficulty": "hard"
+    },
+    {
+      "task_id": "task-0121",
+      "sha256": "1571489a60513384c09840dec917b4332260d5feef7353badac5f22ef4905f65",
+      "op": "*",
+      "difficulty": "hard"
+    },
+    {
+      "task_id": "task-0279",
+      "sha256": "4346dc0b56524f69060c40544300aafdbe80a1f18d65d4aef5c231f95fec3c5c",
+      "op": "*",
+      "difficulty": "medium"
+    },
+    {
+      "task_id": "task-0297",
+      "sha256": "36c45ef2996bac5b832c25df1a393bfbffbe0f1ef07c0d41361c19d8b2d538aa",
+      "op": "*",
+      "difficulty": "medium"
+    },
+    {
+      "task_id": "task-0148",
+      "sha256": "46532fc2bd04d055a32528ea67c0ec9815201b2c9302a290b5b1067ba06230f3",
+      "op": "*",
+      "difficulty": "easy"
+    },
+    {
+      "task_id": "task-0216",
+      "sha256": "3dbf680ac2ca1d4f279fd65f33cadac47297fbf2d177acdff16ab4c6636fe88f",
+      "op": "*",
+      "difficulty": "medium"
+    },
+    {
+      "task_id": "task-0042",
+      "sha256": "a3e2f1fe2912bc17df598a5758e0774b648a2d0d62beca7b08799d6d0b423c73",
+      "op": "*",
+      "difficulty": "easy"
+    },
+    {
+      "task_id": "task-0018",
+      "sha256": "75f19fc92d7bd57ad6e0ecdb67de6906d645b84f64831bc5691697ab28dea31f",
+      "op": "*",
+      "difficulty": "medium"
+    },
+    {
+      "task_id": "task-0025",
+      "sha256": "6923df58e65ccaeb78a6129dabcf79a95fae3257b1a5eda37eed3030f9df038c",
+      "op": "*",
+      "difficulty": "hard"
+    },
+    {
+      "task_id": "task-0288",
+      "sha256": "e518b06287c5a5ef40ed09c20d3bd8c5a684a5d2f85e5710842cec77232f24f9",
+      "op": "*",
+      "difficulty": "hard"
+    },
+    {
+      "task_id": "task-0009",
+      "sha256": "796be2c3c16d731fa38a2d158b620db6a102fe63b1a14a75394782b7c232a1f9",
+      "op": "*",
+      "difficulty": "medium"
+    },
+    {
+      "task_id": "task-0007",
+      "sha256": "0ec8bc2682acae4da0ba2bcd224d0246a6fd2aa1d8b914354abaa4919e95048e",
+      "op": "*",
+      "difficulty": "medium"
+    },
+    {
+      "task_id": "task-0257",
+      "sha256": "0206472aeec2ba56e9dc579822912c77d1f3a52ac095abef4e1c5a0783c0dc5e",
+      "op": "*",
+      "difficulty": "hard"
+    },
+    {
+      "task_id": "task-0165",
+      "sha256": "4066d96bdb20a2cd197f019db15a47b70eaa9ea1464e2a50f0327a05715df607",
+      "op": "*",
+      "difficulty": "medium"
+    },
+    {
+      "task_id": "task-0081",
+      "sha256": "c58fa505d13ea3025b5a382a9bd8ffc7fa13cc1358e4747d30db302d8bf891af",
+      "op": "*",
+      "difficulty": "medium"
+    },
+    {
+      "task_id": "task-0008",
+      "sha256": "8f746de75d47fe3594fac529d7734266d608069b8146d518c303b8690ee4aff9",
+      "op": "*",
+      "difficulty": "medium"
+    },
+    {
+      "task_id": "task-0199",
+      "sha256": "ff3b4ffa3c4467fe1cfe41675c79fe6d5bb5ffeada9fa7d480b0a752da7ab1fe",
+      "op": "*",
+      "difficulty": "hard"
+    },
+    {
+      "task_id": "task-0183",
+      "sha256": "4aec4a6e9d5bdbe5d7b20154c06dceed6de7096f6123dead07abe1a16ceac568",
+      "op": "*",
+      "difficulty": "hard"
+    },
+    {
+      "task_id": "task-0013",
+      "sha256": "1b6d79cd71c6dfdd756581c8529f5eaf8d07c986252ace5b8d19bf4ae41dda70",
+      "op": "*",
+      "difficulty": "hard"
+    },
+    {
+      "task_id": "task-0193",
+      "sha256": "30153d04db68803e7a7de6458994d0738b661dfda8ebc3d639dc031bc3af6aa0",
+      "op": "*",
+      "difficulty": "medium"
+    },
+    {
+      "task_id": "task-0241",
+      "sha256": "8d62221b4b7055de53f4005b14cbe5ab7eb5b8698c96a404dae1f0d1655c2cea",
+      "op": "*",
+      "difficulty": "medium"
+    },
+    {
+      "task_id": "task-0060",
+      "sha256": "edbb451fb67050dd4c074b29027e76bb59819e21a32db165b55ba4e855d9d799",
+      "op": "*",
+      "difficulty": "hard"
+    },
+    {
+      "task_id": "task-0036",
+      "sha256": "93a439ae2df4c25596c2d599feb9e393ebbe644b443115f52b2af4edc139c30f",
+      "op": "*",
+      "difficulty": "medium"
+    },
+    {
+      "task_id": "task-0262",
+      "sha256": "8a21fab4ddb5effa923f2a66da4c7cd65ce2fd1b41906b3474bbd3680856950c",
+      "op": "*",
+      "difficulty": "medium"
+    },
+    {
+      "task_id": "task-0027",
+      "sha256": "6999170d1cd6817da20f998d07e2735df1f0dff555a39bba4b9d7f7ca7476aa8",
+      "op": "*",
+      "difficulty": "medium"
+    },
+    {
+      "task_id": "task-0117",
+      "sha256": "ee29430e42b3a916bab00688c6bb92b4da49dd469ff92a3a63fe8455e75752e1",
+      "op": "*",
+      "difficulty": "hard"
+    },
+    {
+      "task_id": "task-0147",
+      "sha256": "130278416daa6853405f09275425cd986dd086b7316a645cba56cbc449620eee",
+      "op": "*",
+      "difficulty": "medium"
+    },
+    {
+      "task_id": "task-0226",
+      "sha256": "d32feed25c72fe26b6683044ad5cb0e6e17e98e1a203fed593ce85ed802168f3",
+      "op": "*",
+      "difficulty": "medium"
+    },
+    {
+      "task_id": "task-0285",
+      "sha256": "9c03bb5456a9355c9aab10312ccc2c49e580fa480f905f8b0b7b8d5e758a3735",
+      "op": "*",
+      "difficulty": "medium"
+    },
+    {
+      "task_id": "task-0050",
+      "sha256": "3ad2b98a1938f4642ed6112185646d7b0b5c1f46ec12c987f76c65f584697fcd",
+      "op": "*",
+      "difficulty": "hard"
+    },
+    {
+      "task_id": "task-0205",
+      "sha256": "52919a8f946247c1978bc061b12d8669b2071f76feee9c5557fe22abf312d6c6",
+      "op": "*",
+      "difficulty": "medium"
+    },
+    {
+      "task_id": "task-0085",
+      "sha256": "c10a36dddfb3ffebcde59f9683d638ed79055aac72b420b2bfa3cdd822ffe405",
+      "op": "*",
+      "difficulty": "medium"
+    },
+    {
+      "task_id": "task-0235",
+      "sha256": "9722e28c3600533f03c7687989725902d2c49b134e429e2b324e7fb5e44087e8",
+      "op": "*",
+      "difficulty": "medium"
+    },
+    {
+      "task_id": "task-0099",
+      "sha256": "6bb72aeb3e5021a6c2d117f26a9acddb1c0f195fd883ea2c5cb111715976d548",
+      "op": "*",
+      "difficulty": "medium"
+    },
+    {
+      "task_id": "task-0127",
+      "sha256": "b02910b2b8676c70e6c3d344254b5920772f15aa02713ffb8d116086d35c90f1",
+      "op": "+",
+      "difficulty": "medium"
+    },
+    {
+      "task_id": "task-0171",
+      "sha256": "f689c531cec976e250629bd78a17cc618df76cfe3aa91451f36b9c97aa99fbb7",
+      "op": "+",
+      "difficulty": "medium"
+    },
+    {
+      "task_id": "task-0163",
+      "sha256": "8731d4522526b77e1e29d67742ce8f7c9bcda7aa0909ecfa005ef03eb42b1b65",
+      "op": "+",
+      "difficulty": "medium"
+    },
+    {
+      "task_id": "task-0174",
+      "sha256": "f23ebbad56bfa42c0d2fc17c380b603bc962a136a6d610164c292ddfa0976c0f",
+      "op": "+",
+      "difficulty": "medium"
+    },
+    {
+      "task_id": "task-0054",
+      "sha256": "4508d4a18aed6ab837af322299b5f9cc2ab353a32d78926221f8e5acd5834581",
+      "op": "+",
+      "difficulty": "easy"
+    },
+    {
+      "task_id": "task-0289",
+      "sha256": "74a903233250e750cfdd37e4ba934938d0419baaed6438600f21b02f6d47fe92",
+      "op": "+",
+      "difficulty": "medium"
+    },
+    {
+      "task_id": "task-0002",
+      "sha256": "d298a195c6a855f12e02e4f125a707d2f52711de5173d0caa4e4833b0ffe3c6e",
+      "op": "+",
+      "difficulty": "medium"
+    },
+    {
+      "task_id": "task-0154",
+      "sha256": "8386e4a70f64127a9a880c81b3daab9ea0931f3a2682f0db3a214b89c16b9879",
+      "op": "+",
+      "difficulty": "medium"
+    },
+    {
+      "task_id": "task-0118",
+      "sha256": "70f248bab0e98208a37cf40cf17b5e315e9ec9c004d175ddf8bac89943479207",
+      "op": "+",
+      "difficulty": "medium"
+    },
+    {
+      "task_id": "task-0292",
+      "sha256": "a165b0c3d19418501cb703ffa095e7fb2f2b39ba3af7c3c34dd18fe7cdb9db6d",
+      "op": "+",
+      "difficulty": "medium"
+    },
+    {
+      "task_id": "task-0095",
+      "sha256": "92aa35b07618cd34b87cd21631c86e6bd9164df9f12e5d55826fa9a7e152bae0",
+      "op": "+",
+      "difficulty": "medium"
+    },
+    {
+      "task_id": "task-0173",
+      "sha256": "ee7b61bf1b98aedf7bda35ac31cc6854b22d77e1b1381efb88feea2dc278c24e",
+      "op": "-",
+      "difficulty": "easy"
+    },
+    {
+      "task_id": "task-0140",
+      "sha256": "28f340eb1c0d1daa23d19be7418ca8008ce98f94fc1c787bea83aa4c9f19face",
+      "op": "-",
+      "difficulty": "medium"
+    },
+    {
+      "task_id": "task-0047",
+      "sha256": "3a7ac06a54aa5226a37fa3afd1e1e8442ac514fcdefeaee27fbebb34fbf745d5",
+      "op": "-",
+      "difficulty": "medium"
+    },
+    {
+      "task_id": "task-0020",
+      "sha256": "827d964a255a4e10779fdbece438256232196e152565cd32913524c743c1e6e0",
+      "op": "-",
+      "difficulty": "medium"
+    },
+    {
+      "task_id": "task-0057",
+      "sha256": "f73f13bf50798fd045d473149b281fdcafd6f06e9fc51e60fe92711f8ecf97d3",
+      "op": "-",
+      "difficulty": "medium"
+    },
+    {
+      "task_id": "task-0104",
+      "sha256": "f7400fc7a04bf641a64ca9f5ddf99da86022f43af3469c23e208dd44f87ac668",
+      "op": "-",
+      "difficulty": "medium"
+    },
+    {
+      "task_id": "task-0282",
+      "sha256": "150dc6e5c4a786668d82bc08a0daf743fa64fd71ef0462e3198ebbc230cfd175",
+      "op": "-",
+      "difficulty": "medium"
+    },
+    {
+      "task_id": "task-0206",
+      "sha256": "c032253b0e8c4588853a370dd79426554b4e981f34c21a4386f73748b36a0846",
+      "op": "-",
+      "difficulty": "easy"
+    },
+    {
+      "task_id": "task-0015",
+      "sha256": "4d486287d3da7b1d19a9189d0db1e10696fb597451dc3bbdddd5a76060828129",
+      "op": "-",
+      "difficulty": "easy"
+    },
+    {
+      "task_id": "task-0209",
+      "sha256": "3cd204c39e8e55616b0a9fe4968dc1bc82431264bdada9746812e026b3e9de7c",
+      "op": "-",
+      "difficulty": "easy"
+    },
+    {
+      "task_id": "task-0049",
+      "sha256": "4011f4e7d9a8a49843904693b8425f6dc62cf9cc502a7d63466c164ac79a3b4e",
+      "op": "-",
+      "difficulty": "medium"
+    },
+    {
+      "task_id": "task-0072",
+      "sha256": "c3e86aad50b72a03657ea68a1fdf9fa3bf00db61fe807cd79f7666c54175e90a",
+      "op": "/",
+      "difficulty": "easy"
+    },
+    {
+      "task_id": "task-0267",
+      "sha256": "a30fe735c83e9d9efa420e74cd1a0c16b35d6ff89644b27623d5ca3c301748e7",
+      "op": "/",
+      "difficulty": "easy"
+    },
+    {
+      "task_id": "task-0195",
+      "sha256": "f9ade5a338853852bcba5a9d0af1628c024f35b3df08203e2fbb22fcf941f4ec",
+      "op": "/",
+      "difficulty": "easy"
+    },
+    {
+      "task_id": "task-0211",
+      "sha256": "8ec318f7c865a2a31ac914cd87ccbdfdc3417cc14ebba849d09542bbe718c01e",
+      "op": "/",
+      "difficulty": "easy"
+    },
+    {
+      "task_id": "task-0218",
+      "sha256": "838e3a71638d229c660606dd4fbdb3c1a22c4326eabf3e93f79717f361a2befb",
+      "op": "/",
+      "difficulty": "easy"
+    },
+    {
+      "task_id": "task-0108",
+      "sha256": "62e1b47b1c083cdf3afa6d873047901975aa011c59659696d36916d90244b65d",
+      "op": "/",
+      "difficulty": "easy"
+    },
+    {
+      "task_id": "task-0238",
+      "sha256": "3d60c0cf908db423848fa4c657bf5129f193a071ec4343ac0075b352784fbbfb",
+      "op": "/",
+      "difficulty": "easy"
+    },
+    {
+      "task_id": "task-0045",
+      "sha256": "20dbab4ae6752a3f7445909a552bf02318bab34ed7c5b87a3988452d6bbb8ae6",
+      "op": "/",
+      "difficulty": "easy"
+    },
+    {
+      "task_id": "task-0017",
+      "sha256": "220fbf02d04a0afdb7c085273c0acf1327ceeadc97633d6a309358666247b93b",
+      "op": "/",
+      "difficulty": "easy"
+    },
+    {
+      "task_id": "task-0243",
+      "sha256": "127fb3cd5ed86a4fd8b3a0f2aaf3c5ab41c113b5ae162f6f19dff1067fa0d984",
+      "op": "/",
+      "difficulty": "easy"
+    },
+    {
+      "task_id": "task-0160",
+      "sha256": "fc92bf27e3b302e6f4daa4974a57f8aae6a99779adc12f53c20da995ae2dbe93",
+      "op": "/",
+      "difficulty": "easy"
+    },
+    {
+      "task_id": "task-0231",
+      "sha256": "863ba0f6c9f4b155fa14824c9261cd0f08cf940295d0039f137495f1e90bd176",
+      "op": "*",
+      "difficulty": "medium"
+    },
+    {
+      "task_id": "task-0019",
+      "sha256": "6ad45fc2e2c308f2cd5cc2f376debca130f69ddc69be547623092d000691091b",
+      "op": "*",
+      "difficulty": "hard"
+    },
+    {
+      "task_id": "task-0290",
+      "sha256": "b66bd13728cc0b42ad6513e484c3c56870c673467ef2b3415c7474840989743e",
+      "op": "*",
+      "difficulty": "medium"
+    },
+    {
+      "task_id": "task-0188",
+      "sha256": "15986b5f194a7e2b79094812e56eb118f9c95af014d605847d4bfe6585c113e1",
+      "op": "*",
+      "difficulty": "medium"
+    },
+    {
+      "task_id": "task-0192",
+      "sha256": "ec48a741c5b5e7ffe9a6ba102b375249e63018e9fa94caca80064b89a50a0151",
+      "op": "*",
+      "difficulty": "hard"
+    },
+    {
+      "task_id": "task-0011",
+      "sha256": "2df2ce4c8dac267be83f18a8f895ed4580863734f7df86231740105f53d9c3eb",
+      "op": "*",
+      "difficulty": "hard"
+    },
+    {
+      "task_id": "task-0200",
+      "sha256": "16fa0988b9aed12f58b819e8cfd731b8c9a7f66414b3a8c113568cf78044fd3f",
+      "op": "*",
+      "difficulty": "hard"
+    },
+    {
+      "task_id": "task-0232",
+      "sha256": "3f35dd1d4b2f9e5a5b18e4ff608fe17f930cb7eab3196de48f95932d176503f4",
+      "op": "*",
+      "difficulty": "medium"
+    },
+    {
+      "task_id": "task-0119",
+      "sha256": "26d67d74ac939cdd761c7db9012ff1c02b44d2c85b4bd8d1374654b2136fd06d",
+      "op": "*",
+      "difficulty": "easy"
+    },
+    {
+      "task_id": "task-0101",
+      "sha256": "7275b48bc6103f32d24383cb6cf3706100c66441530a98f4ee2e770c58d0d05b",
+      "op": "*",
+      "difficulty": "medium"
+    },
+    {
+      "task_id": "task-0250",
+      "sha256": "d62aef210df85e8f00ee17dbbc26a28c341df4324530b19d7ec09acef0fb6b5c",
+      "op": "+",
+      "difficulty": "medium"
+    },
+    {
+      "task_id": "task-0291",
+      "sha256": "5dcb34397813d05af681dc1e41af1cc9b1234ede490279cdb31fc72e74fdfc29",
+      "op": "+",
+      "difficulty": "easy"
+    },
+    {
+      "task_id": "task-0010",
+      "sha256": "65b55ac720ca6a295fa3f20904a6b5ee0090c3caeb46c39f910725183b0b6734",
+      "op": "+",
+      "difficulty": "medium"
+    },
+    {
+      "task_id": "task-0214",
+      "sha256": "9e27bc55c9e2e03db84d8d677aad0dd33f1a0216f5225aeb5d674846681a83cc",
+      "op": "+",
+      "difficulty": "medium"
+    },
+    {
+      "task_id": "task-0051",
+      "sha256": "5bcf482001a87c711ee4a470886fa0601179849ac0685f5096d5cede01642ab5",
+      "op": "+",
+      "difficulty": "easy"
+    },
+    {
+      "task_id": "task-0055",
+      "sha256": "37f1d8ac0d565ca0f6c5c0d2df631be6546e1c805a1e8f61d3c1fa6e126de704",
+      "op": "+",
+      "difficulty": "medium"
+    },
+    {
+      "task_id": "task-0070",
+      "sha256": "b9f9dd3bf8de93de044684c47018c4974729c267e056b8d652d9a928f94f4390",
+      "op": "+",
+      "difficulty": "medium"
+    },
+    {
+      "task_id": "task-0098",
+      "sha256": "141b76e04a5bbea9b5b996480b92849c39539e581479b3cb3d499e6a5ed7cf98",
+      "op": "+",
+      "difficulty": "medium"
+    },
+    {
+      "task_id": "task-0114",
+      "sha256": "51a1c9a09b051a4c364e47ca72c3f57a40157d7fa8433de413c8e78e13823445",
+      "op": "+",
+      "difficulty": "medium"
+    },
+    {
+      "task_id": "task-0134",
+      "sha256": "eb983aede35fb8d06072b6c34d1da61ecd139d3990d825936d64a083348872ed",
+      "op": "+",
+      "difficulty": "medium"
+    },
+    {
+      "task_id": "task-0005",
+      "sha256": "70bf6dfd2022562cc22c03a966b9d94fab6073d3d30947a62decc205cfd7a686",
+      "op": "+",
+      "difficulty": "medium"
+    },
+    {
+      "task_id": "task-0059",
+      "sha256": "d6f1ca8c2d1e757ff0f1aa751966f95a358858288437b7b0158ceebc6efe3cae",
+      "op": "+",
+      "difficulty": "medium"
+    },
+    {
+      "task_id": "task-0032",
+      "sha256": "d85846678979bcdc9757ea35fb2c52404378dd9acbc02800bebd8e59a41ad17d",
+      "op": "-",
+      "difficulty": "easy"
+    },
+    {
+      "task_id": "task-0153",
+      "sha256": "b85cde67b5ba04734e999f0c41aded01f5b5c84bd049971ca9e7e5e0af72e7d5",
+      "op": "-",
+      "difficulty": "medium"
+    },
+    {
+      "task_id": "task-0110",
+      "sha256": "80ebb9dfa7dbd58ea5ec569774bbd163391b5004d558d59c140fd3c76792763e",
+      "op": "-",
+      "difficulty": "easy"
+    },
+    {
+      "task_id": "task-0299",
+      "sha256": "507015d69054c31278f56ced76c06a7d925b15e5cd88d3af9a8c27f508f439ed",
+      "op": "-",
+      "difficulty": "medium"
+    },
+    {
+      "task_id": "task-0194",
+      "sha256": "1cd2a6e78f5c5f696f5bc4127f599b50af0da1c27fb0ff11fd8dd19aa74b1d46",
+      "op": "-",
+      "difficulty": "easy"
+    },
+    {
+      "task_id": "task-0251",
+      "sha256": "2beebeaf4581f621aa2484de7ceb1c2ba6c3aab1a3fda13c19f2f5f9a24fbed7",
+      "op": "-",
+      "difficulty": "medium"
+    },
+    {
+      "task_id": "task-0079",
+      "sha256": "3657eb1ab693ef4e9157f5956253ef7690ec860aee755a9d37ce3e7db1aab3f1",
+      "op": "-",
+      "difficulty": "easy"
+    },
+    {
+      "task_id": "task-0126",
+      "sha256": "d0e57e1f9a9d5665d8e07201136882b03c4b9bb1f24f723f9c9fdb457df95c09",
+      "op": "-",
+      "difficulty": "medium"
+    },
+    {
+      "task_id": "task-0271",
+      "sha256": "3d5c86767ccd71fe72c0c103ca408f3cbc52b71505d169abe49dc38f1315077f",
+      "op": "-",
+      "difficulty": "easy"
+    },
+    {
+      "task_id": "task-0082",
+      "sha256": "7fbb91e8701774aad3d687b73e1340a44d4346381e6ae7a087537970c891c09c",
+      "op": "-",
+      "difficulty": "medium"
+    },
+    {
+      "task_id": "task-0040",
+      "sha256": "3a25f57bc4fb0aafa3876dc7bed5076dd11dd62b3034df21372e9cbf92a23ca7",
+      "op": "-",
+      "difficulty": "medium"
+    },
+    {
+      "task_id": "task-0136",
+      "sha256": "988a322c4619a90c159c3be66606c15295fc7b79714b36a1c4dad51821f4ddfb",
+      "op": "-",
+      "difficulty": "medium"
+    },
+    {
+      "task_id": "task-0003",
+      "sha256": "8c0215cc8ae26192dbafd32faeac8efec96d12cfdcb62fe01a456b51663e928a",
+      "op": "/",
+      "difficulty": "easy"
+    },
+    {
+      "task_id": "task-0263",
+      "sha256": "ef959c825b562e2338fe44e52c18f402e4eaa06bd06c3265ef4cc8823a04edd6",
+      "op": "/",
+      "difficulty": "easy"
+    },
+    {
+      "task_id": "task-0097",
+      "sha256": "4f6158fd7ad263c7b4b5c52c43be7bf35684127d497bfb13e9a16facab840021",
+      "op": "/",
+      "difficulty": "easy"
+    },
+    {
+      "task_id": "task-0185",
+      "sha256": "cd5e0b3590d552e3c34ecd31b6e6fd4ae0e57a777290c436ba2923d9e65cbc04",
+      "op": "/",
+      "difficulty": "easy"
+    },
+    {
+      "task_id": "task-0094",
+      "sha256": "cc032f4d3e234faf026af7dc7cc4712d3d388516a431b4d64b1c5532bc345d53",
+      "op": "/",
+      "difficulty": "easy"
+    },
+    {
+      "task_id": "task-0113",
+      "sha256": "4e687f57f57e4cf645e104807ab2e99cfce223ba0967d8a97ba2d1b43478b60b",
+      "op": "/",
+      "difficulty": "easy"
+    },
+    {
+      "task_id": "task-0275",
+      "sha256": "fb7c329a6280185436e59362dedb4d121c1ae6908bfe634bb14c4fa3f1819a0d",
+      "op": "/",
+      "difficulty": "easy"
+    },
+    {
+      "task_id": "task-0156",
+      "sha256": "10a4c482b949e3e2d968579ea77d5b8f6ae411064c110189f89c83734e2fbc3f",
+      "op": "/",
+      "difficulty": "easy"
+    },
+    {
+      "task_id": "task-0069",
+      "sha256": "e15c717953b80d03e308e62a017032f5412760615ac8e5097d7def4d0106bac5",
+      "op": "/",
+      "difficulty": "easy"
+    },
+    {
+      "task_id": "task-0284",
+      "sha256": "a91d0b04032d8b083a3838837708a0243c9032dfd54c9361fff8dd95a640275c",
+      "op": "/",
+      "difficulty": "easy"
+    },
+    {
+      "task_id": "task-0103",
+      "sha256": "97be07fb7a20bbfe0ddb632c45f736a1f9d79ed58ec38ae0ce8b1a1244aa0cad",
+      "op": "/",
+      "difficulty": "easy"
+    },
+    {
+      "task_id": "task-0249",
+      "sha256": "6180a16bc63a73cb907f9e42c755aeec279ae986e9642d0cffcb8a92235b768d",
+      "op": "/",
+      "difficulty": "easy"
+    },
+    {
+      "task_id": "task-0142",
+      "sha256": "45d03832a06527f81eb474a7cb3e003210de5adbc5d5d5a1a399f062a87ec338",
+      "op": "/",
+      "difficulty": "easy"
+    },
+    {
+      "task_id": "task-0277",
+      "sha256": "c95b90561156468d53f7914ae69d2ac506a197e77950b1316b3c3608cfd35bcf",
+      "op": "*",
+      "difficulty": "medium"
+    },
+    {
+      "task_id": "task-0091",
+      "sha256": "853408a97998cfb93018466761be6217753312935ae13959cfae4bd0d4138089",
+      "op": "*",
+      "difficulty": "medium"
+    },
+    {
+      "task_id": "task-0115",
+      "sha256": "cc6044bbfd59b0753d8cc223ee7644493641ad68bc076eb25fb2aa9495d6b9fe",
+      "op": "*",
+      "difficulty": "medium"
+    },
+    {
+      "task_id": "task-0189",
+      "sha256": "4d4cb178635771f6eec27c35814e30a7ebb76097cb2cbd2d52590951b87aa991",
+      "op": "*",
+      "difficulty": "medium"
+    },
+    {
+      "task_id": "task-0287",
+      "sha256": "8a9ba2b7036558498d44f6c4617ba495e190295086b4e585268c0fd71f56ff67",
+      "op": "*",
+      "difficulty": "medium"
+    },
+    {
+      "task_id": "task-0038",
+      "sha256": "5f245837ccf486ef4e2ab849dba84768c221e1bcd9109cb6dc88cccf49d31408",
+      "op": "*",
+      "difficulty": "medium"
+    },
+    {
+      "task_id": "task-0096",
+      "sha256": "df7037be441e1351aca819282b484770c4af5c7ac78253378208caa35427284a",
+      "op": "*",
+      "difficulty": "hard"
+    },
+    {
+      "task_id": "task-0219",
+      "sha256": "b0b71a2e793f0c2c2b9e2e2ebf919858335268cc4bfdab63ad68953baacfb63f",
+      "op": "*",
+      "difficulty": "medium"
+    },
+    {
+      "task_id": "task-0298",
+      "sha256": "1d82b52631063e8f4c9fb419abd3e5977123c07ae8ff0f1a5e370ced456b9f1a",
+      "op": "*",
+      "difficulty": "medium"
+    },
+    {
+      "task_id": "task-0124",
+      "sha256": "e3fa2e0ccd70eb3ea75a2089eaba5417b61997276b0d3557d9ac25429eb5f870",
+      "op": "*",
+      "difficulty": "medium"
+    },
+    {
+      "task_id": "task-0269",
+      "sha256": "95b579a8f01a472c957739c30b9596d5cce12e7d880dd8824e7fc16214edb809",
+      "op": "*",
+      "difficulty": "medium"
+    }
+  ]
+}

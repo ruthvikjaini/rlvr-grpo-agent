@@ -1,0 +1,670 @@
+{
+  "baseline_untrained_policy": {
+    "n_tasks": 48,
+    "greedy_accuracy": 0.8541666666666666,
+    "pass@8": 1.0,
+    "brier_score": 0.4060049540184822,
+    "mean_confidence": 0.3251318036403818,
+    "hacking_flag_rate": 0.19791666666666666,
+    "eval_group_size": 8
+  },
+  "baseline_random": {
+    "greedy_accuracy": 0.8541666666666666,
+    "n_tasks": 48
+  },
+  "trained": {
+    "n_tasks": 48,
+    "greedy_accuracy": 0.9583333333333334,
+    "pass@8": 1.0,
+    "brier_score": 0.34776699925997084,
+    "mean_confidence": 0.4252950375428906,
+    "hacking_flag_rate": 0.12760416666666666,
+    "eval_group_size": 8
+  },
+  "train_first_reward": 0.8223958333333332,
+  "train_last_reward": 0.9242187500000001,
+  "train_first_entropy": 1.573290039366018,
+  "train_last_entropy": 1.3987086017482107,
+  "train_history": [
+    {
+      "step": 1,
+      "mean_reward": 0.8223958333333332,
+      "greedy_accuracy_proxy": 1.0,
+      "entropy": 1.573290039366018,
+      "kl_to_reference": 9.618620598141377e-05,
+      "frac_zero_std": 0.0
+    },
+    {
+      "step": 2,
+      "mean_reward": 0.8911458333333333,
+      "greedy_accuracy_proxy": 1.0,
+      "entropy": 1.5406042653994476,
+      "kl_to_reference": 0.00033226496983458973,
+      "frac_zero_std": 0.0
+    },
+    {
+      "step": 3,
+      "mean_reward": 0.8942708333333332,
+      "greedy_accuracy_proxy": 1.0,
+      "entropy": 1.5604597358229633,
+      "kl_to_reference": 0.0007511396172249233,
+      "frac_zero_std": 0.041666666666666664
+    },
+    {
+      "step": 4,
+      "mean_reward": 0.9067708333333334,
+      "greedy_accuracy_proxy": 1.0,
+      "entropy": 1.55867338505222,
+      "kl_to_reference": 0.001096654426151092,
+      "frac_zero_std": 0.0
+    },
+    {
+      "step": 5,
+      "mean_reward": 0.9015625000000002,
+      "greedy_accuracy_proxy": 1.0,
+      "entropy": 1.5724491780057794,
+      "kl_to_reference": 0.0016227176152484215,
+      "frac_zero_std": 0.0
+    },
+    {
+      "step": 6,
+      "mean_reward": 0.8723958333333334,
+      "greedy_accuracy_proxy": 1.0,
+      "entropy": 1.5579591235507906,
+      "kl_to_reference": 0.002398478647530943,
+      "frac_zero_std": 0.0
+    },
+    {
+      "step": 7,
+      "mean_reward": 0.9403645833333334,
+      "greedy_accuracy_proxy": 1.0,
+      "entropy": 1.567168977025388,
+      "kl_to_reference": 0.002613083619679435,
+      "frac_zero_std": 0.0
+    },
+    {
+      "step": 8,
+      "mean_reward": 0.875,
+      "greedy_accuracy_proxy": 1.0,
+      "entropy": 1.5305755043489764,
+      "kl_to_reference": 0.004033817224973636,
+      "frac_zero_std": 0.0
+    },
+    {
+      "step": 9,
+      "mean_reward": 0.9197916666666668,
+      "greedy_accuracy_proxy": 1.0,
+      "entropy": 1.5705023137792296,
+      "kl_to_reference": 0.003680751044674175,
+      "frac_zero_std": 0.0
+    },
+    {
+      "step": 10,
+      "mean_reward": 0.9252604166666666,
+      "greedy_accuracy_proxy": 1.0,
+      "entropy": 1.5565569108967887,
+      "kl_to_reference": 0.005013233569370805,
+      "frac_zero_std": 0.0
+    },
+    {
+      "step": 11,
+      "mean_reward": 0.8651041666666667,
+      "greedy_accuracy_proxy": 1.0,
+      "entropy": 1.5858211263272672,
+      "kl_to_reference": 0.005848855144450334,
+      "frac_zero_std": 0.0
+    },
+    {
+      "step": 12,
+      "mean_reward": 0.946875,
+      "greedy_accuracy_proxy": 1.0,
+      "entropy": 1.5556855805899261,
+      "kl_to_reference": 0.0077280417216380945,
+      "frac_zero_std": 0.0
+    },
+    {
+      "step": 13,
+      "mean_reward": 0.9049479166666666,
+      "greedy_accuracy_proxy": 1.0,
+      "entropy": 1.5743222074600307,
+      "kl_to_reference": 0.007712774610604693,
+      "frac_zero_std": 0.0
+    },
+    {
+      "step": 14,
+      "mean_reward": 0.9192708333333334,
+      "greedy_accuracy_proxy": 1.0,
+      "entropy": 1.5545372085941116,
+      "kl_to_reference": 0.009224600545932543,
+      "frac_zero_std": 0.0
+    },
+    {
+      "step": 15,
+      "mean_reward": 0.8765625,
+      "greedy_accuracy_proxy": 1.0,
+      "entropy": 1.5475614181723196,
+      "kl_to_reference": 0.010076213441267114,
+      "frac_zero_std": 0.0
+    },
+    {
+      "step": 16,
+      "mean_reward": 0.9130208333333334,
+      "greedy_accuracy_proxy": 1.0,
+      "entropy": 1.5508234053567664,
+      "kl_to_reference": 0.011367146799186906,
+      "frac_zero_std": 0.0
+    },
+    {
+      "step": 17,
+      "mean_reward": 0.9354166666666667,
+      "greedy_accuracy_proxy": 1.0,
+      "entropy": 1.547693316827301,
+      "kl_to_reference": 0.011950120819708232,
+      "frac_zero_std": 0.0
+    },
+    {
+      "step": 18,
+      "mean_reward": 0.8473958333333332,
+      "greedy_accuracy_proxy": 1.0,
+      "entropy": 1.5513956352988334,
+      "kl_to_reference": 0.014344913226905787,
+      "frac_zero_std": 0.0
+    },
+    {
+      "step": 19,
+      "mean_reward": 0.8583333333333334,
+      "greedy_accuracy_proxy": 1.0,
+      "entropy": 1.5487357878635788,
+      "kl_to_reference": 0.016034225824846773,
+      "frac_zero_std": 0.0
+    },
+    {
+      "step": 20,
+      "mean_reward": 0.8596354166666668,
+      "greedy_accuracy_proxy": 1.0,
+      "entropy": 1.557422734264567,
+      "kl_to_reference": 0.015572554329338633,
+      "frac_zero_std": 0.0
+    },
+    {
+      "step": 21,
+      "mean_reward": 0.87109375,
+      "greedy_accuracy_proxy": 1.0,
+      "entropy": 1.552697073722029,
+      "kl_to_reference": 0.020119188728758678,
+      "frac_zero_std": 0.0
+    },
+    {
+      "step": 22,
+      "mean_reward": 0.8786458333333332,
+      "greedy_accuracy_proxy": 1.0,
+      "entropy": 1.578245808686719,
+      "kl_to_reference": 0.021499589403887593,
+      "frac_zero_std": 0.0
+    },
+    {
+      "step": 23,
+      "mean_reward": 0.8622395833333334,
+      "greedy_accuracy_proxy": 1.0,
+      "entropy": 1.5327103481150786,
+      "kl_to_reference": 0.02784148518898233,
+      "frac_zero_std": 0.0
+    },
+    {
+      "step": 24,
+      "mean_reward": 0.9166666666666666,
+      "greedy_accuracy_proxy": 1.0,
+      "entropy": 1.5494659000723547,
+      "kl_to_reference": 0.028088530318611426,
+      "frac_zero_std": 0.0
+    },
+    {
+      "step": 25,
+      "mean_reward": 0.8736979166666666,
+      "greedy_accuracy_proxy": 1.0,
+      "entropy": 1.5417408111895163,
+      "kl_to_reference": 0.03242569149623604,
+      "frac_zero_std": 0.0
+    },
+    {
+      "step": 26,
+      "mean_reward": 0.8518229166666668,
+      "greedy_accuracy_proxy": 1.0,
+      "entropy": 1.5505051857699872,
+      "kl_to_reference": 0.035691905236069535,
+      "frac_zero_std": 0.0
+    },
+    {
+      "step": 27,
+      "mean_reward": 0.9283854166666666,
+      "greedy_accuracy_proxy": 1.0,
+      "entropy": 1.5604473988666865,
+      "kl_to_reference": 0.037219788805299095,
+      "frac_zero_std": 0.0
+    },
+    {
+      "step": 28,
+      "mean_reward": 0.9244791666666666,
+      "greedy_accuracy_proxy": 1.0,
+      "entropy": 1.5364944543467136,
+      "kl_to_reference": 0.03997170094804419,
+      "frac_zero_std": 0.0
+    },
+    {
+      "step": 29,
+      "mean_reward": 0.9328124999999999,
+      "greedy_accuracy_proxy": 1.0,
+      "entropy": 1.5310149892353222,
+      "kl_to_reference": 0.044519926784537346,
+      "frac_zero_std": 0.0
+    },
+    {
+      "step": 30,
+      "mean_reward": 0.9682291666666667,
+      "greedy_accuracy_proxy": 1.0,
+      "entropy": 1.5174097641800455,
+      "kl_to_reference": 0.04608799224231381,
+      "frac_zero_std": 0.0
+    },
+    {
+      "step": 31,
+      "mean_reward": 0.9182291666666668,
+      "greedy_accuracy_proxy": 1.0,
+      "entropy": 1.5448652006193597,
+      "kl_to_reference": 0.0447021052756375,
+      "frac_zero_std": 0.0
+    },
+    {
+      "step": 32,
+      "mean_reward": 0.91796875,
+      "greedy_accuracy_proxy": 1.0,
+      "entropy": 1.530610062561168,
+      "kl_to_reference": 0.054366836672083585,
+      "frac_zero_std": 0.041666666666666664
+    },
+    {
+      "step": 33,
+      "mean_reward": 0.9,
+      "greedy_accuracy_proxy": 1.0,
+      "entropy": 1.5137670768231632,
+      "kl_to_reference": 0.055259601766214674,
+      "frac_zero_std": 0.0
+    },
+    {
+      "step": 34,
+      "mean_reward": 0.9171875000000002,
+      "greedy_accuracy_proxy": 1.0,
+      "entropy": 1.5341123749612908,
+      "kl_to_reference": 0.056506741185856336,
+      "frac_zero_std": 0.0
+    },
+    {
+      "step": 35,
+      "mean_reward": 0.9236979166666668,
+      "greedy_accuracy_proxy": 1.0,
+      "entropy": 1.5189346646578474,
+      "kl_to_reference": 0.06164397814891631,
+      "frac_zero_std": 0.0
+    },
+    {
+      "step": 36,
+      "mean_reward": 0.9809895833333334,
+      "greedy_accuracy_proxy": 1.0,
+      "entropy": 1.5170865003319156,
+      "kl_to_reference": 0.06594446157195094,
+      "frac_zero_std": 0.0
+    },
+    {
+      "step": 37,
+      "mean_reward": 0.9143229166666668,
+      "greedy_accuracy_proxy": 1.0,
+      "entropy": 1.5441463024936006,
+      "kl_to_reference": 0.05876849150015406,
+      "frac_zero_std": 0.0
+    },
+    {
+      "step": 38,
+      "mean_reward": 0.8820312500000002,
+      "greedy_accuracy_proxy": 1.0,
+      "entropy": 1.5069430472312568,
+      "kl_to_reference": 0.07278130266507456,
+      "frac_zero_std": 0.0
+    },
+    {
+      "step": 39,
+      "mean_reward": 0.9002604166666668,
+      "greedy_accuracy_proxy": 1.0,
+      "entropy": 1.5086117494514177,
+      "kl_to_reference": 0.07331179939700903,
+      "frac_zero_std": 0.041666666666666664
+    },
+    {
+      "step": 40,
+      "mean_reward": 0.9361979166666666,
+      "greedy_accuracy_proxy": 1.0,
+      "entropy": 1.5019990768600942,
+      "kl_to_reference": 0.07769814734797231,
+      "frac_zero_std": 0.0
+    },
+    {
+      "step": 41,
+      "mean_reward": 0.9395833333333332,
+      "greedy_accuracy_proxy": 1.0,
+      "entropy": 1.5095168719838625,
+      "kl_to_reference": 0.0786372636433222,
+      "frac_zero_std": 0.0
+    },
+    {
+      "step": 42,
+      "mean_reward": 0.9375,
+      "greedy_accuracy_proxy": 1.0,
+      "entropy": 1.4932212901163366,
+      "kl_to_reference": 0.08241420126739403,
+      "frac_zero_std": 0.0
+    },
+    {
+      "step": 43,
+      "mean_reward": 0.9268229166666666,
+      "greedy_accuracy_proxy": 1.0,
+      "entropy": 1.5036516163165343,
+      "kl_to_reference": 0.08754624130315719,
+      "frac_zero_std": 0.0
+    },
+    {
+      "step": 44,
+      "mean_reward": 0.9341145833333333,
+      "greedy_accuracy_proxy": 1.0,
+      "entropy": 1.5252529778328443,
+      "kl_to_reference": 0.08811819251954628,
+      "frac_zero_std": 0.0
+    },
+    {
+      "step": 45,
+      "mean_reward": 0.9752604166666669,
+      "greedy_accuracy_proxy": 1.0,
+      "entropy": 1.5015537013939246,
+      "kl_to_reference": 0.09557104806195317,
+      "frac_zero_std": 0.0
+    },
+    {
+      "step": 46,
+      "mean_reward": 0.85703125,
+      "greedy_accuracy_proxy": 1.0,
+      "entropy": 1.488453048805147,
+      "kl_to_reference": 0.10025633583105886,
+      "frac_zero_std": 0.0
+    },
+    {
+      "step": 47,
+      "mean_reward": 0.8734375,
+      "greedy_accuracy_proxy": 1.0,
+      "entropy": 1.4767258738729911,
+      "kl_to_reference": 0.1044051575476921,
+      "frac_zero_std": 0.0
+    },
+    {
+      "step": 48,
+      "mean_reward": 0.9088541666666666,
+      "greedy_accuracy_proxy": 1.0,
+      "entropy": 1.5007760423421252,
+      "kl_to_reference": 0.10378992210069059,
+      "frac_zero_std": 0.0
+    },
+    {
+      "step": 49,
+      "mean_reward": 0.8815104166666666,
+      "greedy_accuracy_proxy": 1.0,
+      "entropy": 1.4739014509473518,
+      "kl_to_reference": 0.10806279695999739,
+      "frac_zero_std": 0.0
+    },
+    {
+      "step": 50,
+      "mean_reward": 0.9341145833333333,
+      "greedy_accuracy_proxy": 1.0,
+      "entropy": 1.4880572195735502,
+      "kl_to_reference": 0.10373720648425411,
+      "frac_zero_std": 0.0
+    },
+    {
+      "step": 51,
+      "mean_reward": 0.9471354166666668,
+      "greedy_accuracy_proxy": 1.0,
+      "entropy": 1.4702956815482782,
+      "kl_to_reference": 0.11882347371099385,
+      "frac_zero_std": 0.0
+    },
+    {
+      "step": 52,
+      "mean_reward": 0.9213541666666667,
+      "greedy_accuracy_proxy": 1.0,
+      "entropy": 1.4569405872329808,
+      "kl_to_reference": 0.12534264202482714,
+      "frac_zero_std": 0.041666666666666664
+    },
+    {
+      "step": 53,
+      "mean_reward": 0.9520833333333334,
+      "greedy_accuracy_proxy": 1.0,
+      "entropy": 1.4706973560914935,
+      "kl_to_reference": 0.13371150730022135,
+      "frac_zero_std": 0.0
+    },
+    {
+      "step": 54,
+      "mean_reward": 0.9507812499999999,
+      "greedy_accuracy_proxy": 1.0,
+      "entropy": 1.4844823957575517,
+      "kl_to_reference": 0.12864309713843755,
+      "frac_zero_std": 0.0
+    },
+    {
+      "step": 55,
+      "mean_reward": 0.9736979166666667,
+      "greedy_accuracy_proxy": 1.0,
+      "entropy": 1.4444332303926128,
+      "kl_to_reference": 0.14098626221671715,
+      "frac_zero_std": 0.0
+    },
+    {
+      "step": 56,
+      "mean_reward": 0.9427083333333334,
+      "greedy_accuracy_proxy": 1.0,
+      "entropy": 1.4493808218265187,
+      "kl_to_reference": 0.13977912555367478,
+      "frac_zero_std": 0.041666666666666664
+    },
+    {
+      "step": 57,
+      "mean_reward": 0.9716145833333334,
+      "greedy_accuracy_proxy": 1.0,
+      "entropy": 1.4680856799064703,
+      "kl_to_reference": 0.14365152445411722,
+      "frac_zero_std": 0.041666666666666664
+    },
+    {
+      "step": 58,
+      "mean_reward": 0.9203125,
+      "greedy_accuracy_proxy": 1.0,
+      "entropy": 1.4256828598665663,
+      "kl_to_reference": 0.14959581502959654,
+      "frac_zero_std": 0.0
+    },
+    {
+      "step": 59,
+      "mean_reward": 0.9453125,
+      "greedy_accuracy_proxy": 1.0,
+      "entropy": 1.4702707461778584,
+      "kl_to_reference": 0.13083131833245243,
+      "frac_zero_std": 0.0
+    },
+    {
+      "step": 60,
+      "mean_reward": 0.8885416666666668,
+      "greedy_accuracy_proxy": 1.0,
+      "entropy": 1.4678109294130008,
+      "kl_to_reference": 0.13466945707675976,
+      "frac_zero_std": 0.0
+    },
+    {
+      "step": 61,
+      "mean_reward": 0.9526041666666666,
+      "greedy_accuracy_proxy": 1.0,
+      "entropy": 1.4159764872264002,
+      "kl_to_reference": 0.16045874979988656,
+      "frac_zero_std": 0.0
+    },
+    {
+      "step": 62,
+      "mean_reward": 0.97421875,
+      "greedy_accuracy_proxy": 1.0,
+      "entropy": 1.4766703034011321,
+      "kl_to_reference": 0.14407614004000233,
+      "frac_zero_std": 0.0
+    },
+    {
+      "step": 63,
+      "mean_reward": 0.9083333333333335,
+      "greedy_accuracy_proxy": 1.0,
+      "entropy": 1.4806943956110523,
+      "kl_to_reference": 0.13549042514112933,
+      "frac_zero_std": 0.041666666666666664
+    },
+    {
+      "step": 64,
+      "mean_reward": 0.9388020833333334,
+      "greedy_accuracy_proxy": 1.0,
+      "entropy": 1.4324693787441884,
+      "kl_to_reference": 0.1691779851253048,
+      "frac_zero_std": 0.0
+    },
+    {
+      "step": 65,
+      "mean_reward": 0.9388020833333334,
+      "greedy_accuracy_proxy": 1.0,
+      "entropy": 1.408156588706279,
+      "kl_to_reference": 0.16947340251916873,
+      "frac_zero_std": 0.0
+    },
+    {
+      "step": 66,
+      "mean_reward": 0.95546875,
+      "greedy_accuracy_proxy": 1.0,
+      "entropy": 1.4672392914576224,
+      "kl_to_reference": 0.15796834788259081,
+      "frac_zero_std": 0.0
+    },
+    {
+      "step": 67,
+      "mean_reward": 0.95859375,
+      "greedy_accuracy_proxy": 1.0,
+      "entropy": 1.4104113953032913,
+      "kl_to_reference": 0.17671904622321502,
+      "frac_zero_std": 0.0
+    },
+    {
+      "step": 68,
+      "mean_reward": 0.9835937499999999,
+      "greedy_accuracy_proxy": 1.0,
+      "entropy": 1.420126365049376,
+      "kl_to_reference": 0.17275684909336694,
+      "frac_zero_std": 0.0
+    },
+    {
+      "step": 69,
+      "mean_reward": 0.92578125,
+      "greedy_accuracy_proxy": 1.0,
+      "entropy": 1.4079649588598684,
+      "kl_to_reference": 0.17864830587989186,
+      "frac_zero_std": 0.0
+    },
+    {
+      "step": 70,
+      "mean_reward": 0.9447916666666667,
+      "greedy_accuracy_proxy": 1.0,
+      "entropy": 1.4562121042790632,
+      "kl_to_reference": 0.1704500740681059,
+      "frac_zero_std": 0.0
+    },
+    {
+      "step": 71,
+      "mean_reward": 0.9106770833333334,
+      "greedy_accuracy_proxy": 1.0,
+      "entropy": 1.4429352225485668,
+      "kl_to_reference": 0.17869291851681654,
+      "frac_zero_std": 0.0
+    },
+    {
+      "step": 72,
+      "mean_reward": 0.9145833333333333,
+      "greedy_accuracy_proxy": 1.0,
+      "entropy": 1.4063731394174381,
+      "kl_to_reference": 0.1957315566800835,
+      "frac_zero_std": 0.0
+    },
+    {
+      "step": 73,
+      "mean_reward": 0.9575520833333334,
+      "greedy_accuracy_proxy": 1.0,
+      "entropy": 1.4186606997346818,
+      "kl_to_reference": 0.19829776505239938,
+      "frac_zero_std": 0.0
+    },
+    {
+      "step": 74,
+      "mean_reward": 0.9231770833333334,
+      "greedy_accuracy_proxy": 1.0,
+      "entropy": 1.4144190937190384,
+      "kl_to_reference": 0.20226590714818068,
+      "frac_zero_std": 0.041666666666666664
+    },
+    {
+      "step": 75,
+      "mean_reward": 0.9562500000000002,
+      "greedy_accuracy_proxy": 1.0,
+      "entropy": 1.3977687007019608,
+      "kl_to_reference": 0.20496205510445376,
+      "frac_zero_std": 0.0
+    },
+    {
+      "step": 76,
+      "mean_reward": 0.9575520833333334,
+      "greedy_accuracy_proxy": 1.0,
+      "entropy": 1.4246079213351548,
+      "kl_to_reference": 0.22100065125345558,
+      "frac_zero_std": 0.0
+    },
+    {
+      "step": 77,
+      "mean_reward": 0.9442708333333334,
+      "greedy_accuracy_proxy": 1.0,
+      "entropy": 1.3507458561231276,
+      "kl_to_reference": 0.2349364710260978,
+      "frac_zero_std": 0.0
+    },
+    {
+      "step": 78,
+      "mean_reward": 1.0122395833333335,
+      "greedy_accuracy_proxy": 1.0,
+      "entropy": 1.4299404699125364,
+      "kl_to_reference": 0.21843713781539043,
+      "frac_zero_std": 0.041666666666666664
+    },
+    {
+      "step": 79,
+      "mean_reward": 0.9442708333333334,
+      "greedy_accuracy_proxy": 1.0,
+      "entropy": 1.3468792422145768,
+      "kl_to_reference": 0.24120828827367094,
+      "frac_zero_std": 0.0
+    },
+    {
+      "step": 80,
+      "mean_reward": 0.9242187500000001,
+      "greedy_accuracy_proxy": 1.0,
+      "entropy": 1.3987086017482107,
+      "kl_to_reference": 0.22938860063598673,
+      "frac_zero_std": 0.0
+    }
+  ]
+}

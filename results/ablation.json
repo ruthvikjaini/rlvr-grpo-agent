@@ -1,0 +1,66 @@
+{
+  "seed": 42,
+  "steps": 40,
+  "results": [
+    {
+      "name": "std-on_G8_KL0",
+      "use_std": true,
+      "group_size": 8,
+      "beta_kl": 0.0,
+      "final_train_reward": 0.9770833333333332,
+      "first_train_reward": 0.8223958333333332,
+      "n_tasks": 48,
+      "greedy_accuracy": 0.9583333333333334,
+      "pass@8": 1.0,
+      "brier_score": 0.061934579551259555,
+      "mean_confidence": 0.8483790596511661,
+      "hacking_flag_rate": 0.09895833333333333,
+      "eval_group_size": 8
+    },
+    {
+      "name": "std-off_G8_KL0",
+      "use_std": false,
+      "group_size": 8,
+      "beta_kl": 0.0,
+      "final_train_reward": 0.9361979166666666,
+      "first_train_reward": 0.8223958333333332,
+      "n_tasks": 48,
+      "greedy_accuracy": 0.9375,
+      "pass@8": 1.0,
+      "brier_score": 0.4079721201368111,
+      "mean_confidence": 0.35433696176797796,
+      "hacking_flag_rate": 0.15364583333333334,
+      "eval_group_size": 8
+    },
+    {
+      "name": "std-off_G4_KL0",
+      "use_std": false,
+      "group_size": 4,
+      "beta_kl": 0.0,
+      "final_train_reward": 0.9098958333333332,
+      "first_train_reward": 0.8718749999999998,
+      "n_tasks": 48,
+      "greedy_accuracy": 0.8958333333333334,
+      "pass@8": 1.0,
+      "brier_score": 0.4085166344444013,
+      "mean_confidence": 0.34371777851121954,
+      "hacking_flag_rate": 0.15625,
+      "eval_group_size": 8
+    },
+    {
+      "name": "std-off_G8_KL0.04",
+      "use_std": false,
+      "group_size": 8,
+      "beta_kl": 0.04,
+      "final_train_reward": 0.9205729166666666,
+      "first_train_reward": 0.8223958333333332,
+      "n_tasks": 48,
+      "greedy_accuracy": 0.9166666666666666,
+      "pass@8": 1.0,
+      "brier_score": 0.40785077903882305,
+      "mean_confidence": 0.3494261046686801,
+      "hacking_flag_rate": 0.15364583333333334,
+      "eval_group_size": 8
+    }
+  ]
+}
