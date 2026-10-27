@@ -1,0 +1,8 @@
+# Optional scale-up dependencies (GPU, model download required).
+# Not needed for the NumPy core, tests, or CI.
+torch>=2.0
+transformers>=4.40
+trl>=0.12
+datasets>=2.0
+vllm>=0.6
+matplotlib>=3.7
